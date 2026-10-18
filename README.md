@@ -3,6 +3,7 @@
 An interactive research report on how Google ranks pages: which signals carry the most weight, how they correlate with performance, how they vary by industry and query type, and where the algorithm is heading. It's the 2025 edition of the ranking factors study that grew into my 2026 SEO + AI ranking signals research on [optimizationtheory.com](https://optimizationtheory.com).
 
 **Live report:** https://jourdanrombough.github.io/seo-ranking-signals/
+**2026 edition:** [seo-ranking-signals-2026](https://github.com/jourdanrombough/seo-ranking-signals-2026)
 
 ## What's inside
 
